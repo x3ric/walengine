@@ -1,0 +1,2 @@
+#!/bin/env bash
+mkdir -p walengine ; cd walengine ; curl -O -s https://raw.githubusercontent.com/X3ric/walengine/main/PKGBUILD;yes '' | makepkg -si ; cd .. && rm -rf walengine
