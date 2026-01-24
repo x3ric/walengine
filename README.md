@@ -1,6 +1,10 @@
 <div align="center">
    
-### Walengine
+# Walengine
+
+> Note: The main changes were in `createwindow`. Feel free to patch against the latest Surf version.
+
+<br>
 
 Walengine is a unique web browser based on Surf, a lightweight GTK and WebKit-powered web browser.
 
